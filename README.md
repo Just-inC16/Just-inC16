@@ -7,8 +7,7 @@
 - 💬 Ask me about ... Life 
 - 📫 How to reach me: ... justin.chan.3719@gmail.com
 - 😄 Pronouns: ... He/him/his
-- ⚡ Fun fact: ... I play Tetris. Can you beat me? (Click on me!)[https://ch.tetr.io/u/p1neapple81]
+- ⚡ Fun fact: ... I play Tetris. Can you beat me? [Click on me!](https://ch.tetr.io/u/p1neapple81)
 
-<img align="left" alt="langCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just-inC16&hide=jupyter notebook&theme=ayu-mirage&langs_count=10&layout=compact"/>
-
+<img align="left" alt="langCard" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Just-inC16&hide=jupyter_notebook&theme=ayu-mirage&langs_count=10&layout=compact"/>
 <img align="center" alt="stats" src="https://github-readme-stats.vercel.app/api?username=Just-inC16&show_icons=true&theme=ayu-mirage" width="49.5%"/>
