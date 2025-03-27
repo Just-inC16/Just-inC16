@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-- 🔭 I’m currently working on ... Frontend[SAP UI5, JS, XML, CSS]
-- 🌱 I’m currently learning ... Microservices
+- 🔭 I’m currently working on ... Full stack application[Angular + Java]
+- 🌱 I’m currently learning ... Angular
 - 👯 I’m looking to collaborate on ... Open source projects 
-- 🤔 I’m looking for help with ... AWS
-- 💬 Ask me about ... Life 
+- 🤔 I’m looking for help with ... Angular
+- 💬 Ask me about ... Life
 - 📫 How to reach me: ... justin.chan.3719@gmail.com
 - 😄 Pronouns: ... He/him/his
   
